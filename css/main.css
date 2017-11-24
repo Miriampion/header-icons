@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+header {
+  background-color: #d05c2e;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+  margin: 0;
+}
+
+.grainleft {
+  float: left;
+  width: 40px;
+}
+
+.grainright {
+  float: right;
+  width: 40px;
+}
