@@ -30,3 +30,12 @@ h1 {
   float: right;
   width: 40px;
 }
+
+li {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
